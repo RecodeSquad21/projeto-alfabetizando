@@ -1,5 +1,3 @@
-CREATE DATABASE  IF NOT EXISTS `alfabetizando` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `alfabetizando`;
 -- MySQL dump 10.13  Distrib 8.0.30, for Win64 (x86_64)
 --
 -- Host: localhost    Database: alfabetizando
@@ -25,14 +23,16 @@ DROP TABLE IF EXISTS `aluno`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `aluno` (
-  `id` int NOT NULL AUTO_INCREMENT,
-  `nome` varchar(30) DEFAULT NULL,
-  `endereco` varchar(50) DEFAULT NULL,
-  `cidade` varchar(50) DEFAULT NULL,
-  `estado` varchar(50) DEFAULT NULL,
-  `cep` varchar(50) DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+  `id_aluno` int NOT NULL AUTO_INCREMENT,
+  `cep` int DEFAULT NULL,
+  `cidade` varchar(255) DEFAULT NULL,
+  `email` varchar(255) NOT NULL,
+  `endereco` varchar(255) DEFAULT NULL,
+  `estado` varchar(255) DEFAULT NULL,
+  `nome` varchar(255) NOT NULL,
+  `senha` varchar(255) NOT NULL,
+  PRIMARY KEY (`id_aluno`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -41,7 +41,7 @@ CREATE TABLE `aluno` (
 
 LOCK TABLES `aluno` WRITE;
 /*!40000 ALTER TABLE `aluno` DISABLE KEYS */;
-INSERT INTO `aluno` VALUES (2,'asdf','asdf','afd','sadf','asdf'),(3,'www','www','www','www','www'),(4,'eee',NULL,NULL,NULL,NULL),(5,'ttt','ttt','tt','ttt','tt');
+INSERT INTO `aluno` VALUES (1,13084643,'Sao paulo','well@example.com','av DOIS','sp','Wellynton','well123'),(3,1308462,'campinas','well@example.com','av das flores','sp','jackson','well123'),(4,13084484,'Campinas','wel@hotmail.com','Av das flores','Sao Paulo','Wellynton Samuel','well567');
 /*!40000 ALTER TABLE `aluno` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -54,4 +54,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-10-03  9:50:49
+-- Dump completed on 2022-11-13 13:29:50
