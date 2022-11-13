@@ -1,0 +1,10 @@
+#titleAluno{
+  margin: 100px auto 75px;
+}
+
+#formAluno{
+  padding: 5px;
+  min-width: 320px;
+  max-width: 750px;
+  margin: auto;
+}
