@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import "./style.css";
 import axios from 'axios';
 
@@ -31,7 +31,7 @@ export default function Voluntariado() {
             tipo: tipo
         }).then((result) => {
             alert("Voluntario cadastrado");
-            navigate("/")
+            navigate("/voluntariado")
         }).catch((erro) => {
             console.log(erro);
         })
