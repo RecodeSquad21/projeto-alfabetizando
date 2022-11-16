@@ -5,3 +5,14 @@
 #cardsVoluntariado{
   margin: 0 auto 75px;
 }
+
+h2{
+  background-color: rgb(241, 197, 52);
+  padding: 10px;
+}
+
+hr{
+  width: 50%;
+  margin: 15px auto;
+
+}
