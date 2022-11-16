@@ -1,5 +1,12 @@
+#headContato{
+    margin: 87px auto 0px;
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(241, 197, 52);
+}
+
 #contato{
-    margin: 187px auto 0;
+    margin: auto;
     min-width: 320px;
     max-width: 750px;
     text-align: center;
