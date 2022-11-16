@@ -61,7 +61,7 @@ export default function Home() {
                     <div className="row">
                         <div className="col">
                             <h4>Missão</h4>
-                            <p>Estamos alinhados às metas que a ODS 4 dispõe a fim de assegurar educação de qualidade a todos
+                            <p>Estamos alinhados às metas que a ODS 4 dispõe a fim de assegurar educação de qualidade a todos,
                                 especialmente às 4.4 e
                                 4.6. Queremos elevar substancialmente o número de jovens e adultos com competências e conhecimentos básicos
                                 em leitura,
