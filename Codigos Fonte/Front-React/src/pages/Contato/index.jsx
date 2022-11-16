@@ -4,10 +4,14 @@ import "./style.css";
 export default function Contato() {
     return (
         <div>
-            <main>
-                <div id="contato">
+            <div className="container-flux" id="headContato">
+                <div className="container bg-transparent">
                     <h1><strong>INFORMAÇÕES E CONTATO</strong></h1>
                     <p><strong>ATENDIMENTO NOS DIAS ÚTEIS, DAS 9H ÀS 17H</strong></p>
+                </div>
+            </div>
+            <main>
+                <div id="contato">
                     <div className="container">
                         <div className="row">
                             <div className="col col-map">
