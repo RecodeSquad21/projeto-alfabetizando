@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import axios from "axios";
 import { useEffect } from "react";
+import "./style.css"
 
 export default function EditVoluntario() {
   const navigate = useNavigate();
@@ -60,10 +61,12 @@ export default function EditVoluntario() {
 
   return (
     <div>
-      <main className="container">
-        <header id="titleVoluntariado">
+      <div className="container-flux" id="headEditVoluntariado">
+        <div className="container bg-transparent">
           <h1><strong>Atualizar dados cadastrais - Voluntário</strong></h1>
-        </header>
+        </div>
+      </div>
+      <main className="container">
         <form className="row g-3 needs-validation" id="formVoluntariado" noValidate>
           <div className="col-md-6">
             <label htmlFor="validationCustom01" className="form-label">Nome</label>
