@@ -39,11 +39,15 @@ export default function Voluntariado() {
 
     return (
         <div>
+            <div className="container-flux" id="headCadastroVoluntario">
+                <div className="container bg-transparent">
+                    <header>
+                        <h1><strong>Deseja ser voluntário?</strong></h1>
+                        <h3>Cadastre-se e venha fazer parte de quem ajuda.</h3>
+                    </header>
+                </div>
+            </div>
             <main className="container">
-                <header id="titleVoluntariado">
-                    <h1><strong>Deseja ser voluntário?</strong></h1>
-                    <h3>Cadastre-se e venha fazer parte de quem ajuda.</h3>
-                </header>
                 <form className="row g-3 needs-validation" id="formVoluntariado" noValidate>
                     <div className="col-md-6">
                         <label htmlFor="validationCustom01" className="form-label">Nome</label>
