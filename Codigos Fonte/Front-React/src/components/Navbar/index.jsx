@@ -5,7 +5,7 @@ import logo from "../../assets/img/logo.png";
 
 export default function Navbar() {
     return (
-        <div>
+        <div className="shadow fixed-top bg-white">
             <nav className="navbar navbar-expand-lg bg-white container">
                 <div className="container-fluid">
                     <Link className="navbar-brand" to="/"><img src={logo} alt="logo" /></Link>
@@ -29,8 +29,8 @@ export default function Navbar() {
                             </li>
                         </ul>
                     </div>
+                <Link className="btn btn-outline-dark" to="/cadastroAluno">Aluno</Link>
                 </div>
-                <Link className="btn btn-primary" to="/cadastroAluno">Aluno</Link>
             </nav>
         </div>
     )
