@@ -1,5 +1,7 @@
-#titleVoluntariado{
-    margin: 187px auto 75px;
+#headCadastroVoluntario{
+    margin: 87px auto 50px;
+    padding: 30px;
+    background-color: rgb(241, 197, 52);
 }
 
 #formVoluntariado{
