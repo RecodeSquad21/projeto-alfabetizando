@@ -76,7 +76,8 @@ export default function InfoVolunt() {
         <h3>Tem interesse em participar? <Link to="cadastroVoluntariado">Cadastre-se aqui!</Link></h3>
       </main>
       <div className="py-4">
-        <h2>Nossos Voluntarios</h2>
+        <hr />
+        <h2>Nossos Voluntários</h2>
         <table className="table table-striped border shadow">
           <thead>
             <tr>
