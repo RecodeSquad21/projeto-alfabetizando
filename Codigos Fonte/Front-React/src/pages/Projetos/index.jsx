@@ -18,7 +18,7 @@ export default function Projetos() {
                                 <img src={abc} className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <h5 className="card-title">Projeto 1</h5>
-                                        <p className="card-text">Alfabetização de crianças em áreas rurais. Conectamos voluntários interessados em
+                                        <p className="card-text">Alfabetização em áreas rurais. Conectamos voluntários interessados em
                                             erradicar a analfabetização em áreas rurais remotas do país a alunos carentes de educação.</p>
                                     </div>
                             </div>
@@ -28,7 +28,7 @@ export default function Projetos() {
                                 <img src={abc} className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <h5 className="card-title">Projeto 1</h5>
-                                        <p className="card-text">Alfabetização de crianças em áreas rurais. Conectamos voluntários interessados em
+                                        <p className="card-text">Alfabetização em áreas rurais. Conectamos voluntários interessados em
                                             erradicar a analfabetização em áreas rurais remotas do país a alunos carentes de educação.</p>
                                     </div>
                             </div>
@@ -38,7 +38,7 @@ export default function Projetos() {
                                 <img src={abc} className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <h5 className="card-title">Projeto 1</h5>
-                                        <p className="card-text">Alfabetização de crianças em áreas rurais. Conectamos voluntários interessados em
+                                        <p className="card-text">Alfabetização em áreas rurais. Conectamos voluntários interessados em
                                             erradicar a analfabetização em áreas rurais remotas do país a alunos carentes de educação.</p>
                                     </div>
                             </div>
@@ -48,7 +48,7 @@ export default function Projetos() {
                                 <img src={abc} className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <h5 className="card-title">Projeto 1</h5>
-                                        <p className="card-text">Alfabetização de crianças em áreas rurais. Conectamos voluntários interessados em
+                                        <p className="card-text">Alfabetização em áreas rurais. Conectamos voluntários interessados em
                                             erradicar a analfabetização em áreas rurais remotas do país a alunos carentes de educação.</p>
                                     </div>
                             </div>
