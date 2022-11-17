@@ -2,11 +2,11 @@
 
 ## Squad-021 {Recode Pro 2022}
 
-### Caso: Erradicação do analfabetismo nas áreas rurais. 
+### Eixo: Erradicação do analfabetismo nas áreas rurais. 
 
 #### Solução
 
-Criação de um site que oferece suporte pedagógico, monitorias educacionais e atendimento psicológico  para crianças em situação vulnevável, focado em áreas rurais.
+Criação de um site que oferece suporte pedagógico, monitorias educacionais e atendimento psicológico para sujeito em situação vulnevável, focado em áreas rurais.
 
 #### Modelo de negócio
 
