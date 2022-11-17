@@ -21,30 +21,30 @@ Profissionais se inscrevem na plataforma indicando a modalidade disponibilizada 
 
 * Página do voluntariado
 
-![Página Voluntariado](/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/voluntariado.png "Página Voluntariado")
+![Página Voluntariado](./Codigos%20Fonte/Front-React/src/assets/img/voluntariado.png "Página Voluntariado")
 
 * Página de Cadastro do Aluno
 
-![Página Aluno](https://github.com/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/aluno.png "Página Aluno")
+![Página Aluno](./Codigos%20Fonte/Front-React/src/assets/img/aluno.png "Página Aluno")
 
 * Página de Contato
 
-![Página Contato](https://github.com/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/contato.png "Página Contato")
+![Página Contato](./Codigos%20Fonte/Front-React/src/assets/img/contato.png "Página Contato")
 
 ### Consumindo API
 
 * Cadastro Voluntário
 
-![Página Cadastro Voluntario](https://github.com/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/cadastroVoluntario.png "Página Cadastro Voluntario")
+![Página Cadastro Voluntario](./Codigos%20Fonte/Front-React/src/assets/img/cadastroVoluntario.png "Página Cadastro Voluntario")
 
 
-![Página Cadastro](https://github.com/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/consultaCadastro.png "Página Cadastro")
+![Página Cadastro](./Codigos%20Fonte/Front-React/src/assets/img/consultaCadastro.png "Página Cadastro")
 
 * Cadastro no Banco de Dados
 
-![Página BD Voluntario](https://github.com/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/consultaBD.png "Página BD Voluntario")
+![Página BD Voluntario](./Codigos%20Fonte/Front-React/src/assets/img/consultaBD.png "Página BD Voluntario")
 
-![Página BD Aluno](https://github.com/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/consultaBDAluno.png "Página BD Aluno")
+![Página BD Aluno](./Codigos%20Fonte/Front-React/src/assets/img/consultaBDAluno.png "Página BD Aluno")
 
 ## Links
 
