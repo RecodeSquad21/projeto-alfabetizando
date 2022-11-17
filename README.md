@@ -6,7 +6,9 @@
 
 #### Solução
 
-Criação de um site que oferece suporte pedagógico, monitorias educacionais e atendimento psicológico para sujeito em situação vulnevável, focado em áreas rurais.
+Criação de um site que seja um canal de conexão entre potenciais voluntarios com fins de oferecer suporte pedagógico, monitorias educacionais e atendimento psicológico para sujeitos em que se enquadram naquilo que é chamado analfabetismo ou analfabetismo funcional em áreas rurais.
+
+Para mais informações, checar: ![[presentation.pdf](https://github.com/RecodeSquad21/projeto-alfabetizando/files/10031079/presentation.pdf)]
 
 #### Modelo de negócio
 
