@@ -21,7 +21,7 @@ Profissionais se inscrevem na plataforma indicando a modalidade disponibilizada 
 
 * Página do voluntariado
 
-![Página Voluntariado](https://github.com/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/voluntariado.png "Página Voluntariado")
+![Página Voluntariado](/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/voluntariado.png "Página Voluntariado")
 
 * Página de Cadastro do Aluno
 
