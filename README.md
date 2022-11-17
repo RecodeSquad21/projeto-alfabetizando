@@ -17,7 +17,7 @@ Profissionais se inscrevem na plataforma indicando a modalidade disponibilizada 
 
 * Página inicial
 
-![Página Inicial do site](https://github.com/RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/home.png "Página Inicial do site")
+![Página Inicial do site](./RecodeSquad21/projeto-alfabetizando/tree/main/Codigos%20Fonte/Front-React/src/assets/img/home.png "Página Inicial do site")
 
 * Página do voluntariado
 
