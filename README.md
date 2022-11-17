@@ -11,6 +11,7 @@ Criação de um site que oferece suporte pedagógico, monitorias educacionais e 
 #### Modelo de negócio
 
 Profissionais se inscrevem na plataforma indicando a modalidade disponibilizada que desejam atuar. Após o cadastro o profissional é vinculado a um aluno cadastrado na plataforma.
+O vínculo irá ocorrer após a identificação da necessidade do aluno junto com a disponibilidade do profissional.
 
 
 ### Plataforma
